@@ -1,5 +1,6 @@
-# MathAnDPython
-Learn Math with Python
+# MATH AND PYTHON
+
+Learn Maths with Python
 
 
 Hi there,
